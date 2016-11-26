@@ -1,14 +1,14 @@
 # numerical-Analysis
 numerice methods written in c, c++, and matlab
 
-Interpolaation <br>
- <space>variables <br>
-  <space> <space> private: <br>
-   <space> <space> <space> NumberOfPoints - is the number of points in the array can be updated by calling setNumberOfPoints and passing in the number of points also set when object is constructed <br>
-    <space> <space> <space>newtownsCoef - ceofients to a polynomial going through all of the points set calling setNetwonsCeof <br>
+Interpolaation <br/>
+	* variables <br/>
+		* private: <br/>
+		* NumberOfPoints - is the number of points in the array can be updated by calling setNumberOfPoints and passing in the number of points also set when object is constructed <br>
+		* newtownsCoef - ceofients to a polynomial going through all of the points set calling setNetwonsCeof <br>
    <br>
-  <space> <space> public<br>
-  <space> <space> <space>  pointsArray - the x and y cordinates <br>
+	* public<br>
+		* pointsArray - the x and y cordinates <br>
    
  methods <br>
   public: <br>
