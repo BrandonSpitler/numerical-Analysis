@@ -1,0 +1,13 @@
+﻿  main.cpp
+main.cpp(26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  interpolation.cpp
+  IntegrationAndDifferentiation.cpp
+integrration-differention\IntegrationAndDifferentiation.cpp(8): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+integrration-differention\IntegrationAndDifferentiation.cpp(19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+integrration-differention\IntegrationAndDifferentiation.cpp(23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+integrration-differention\IntegrationAndDifferentiation.cpp(26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+integrration-differention\IntegrationAndDifferentiation.cpp(36): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+integrration-differention\IntegrationAndDifferentiation.cpp(37): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  numerical-Analysis.vcxproj -> C:\Users\brand\Documents\GitHub\numerical-Analysis\Debug\numerical-Analysis.exe
+  numerical-Analysis.vcxproj -> C:\Users\brand\Documents\GitHub\numerical-Analysis\Debug\numerical-Analysis.pdb (Full PDB)
