@@ -7,7 +7,7 @@ Interpolaation <br/>
  >>>  NumberOfPoints - is the number of points in the array can be updated by calling setNumberOfPoints and passing in the number of points also set when object is constructed <br>
  >>>  newtownsCoef - ceofients to a polynomial going through all of the points set calling setNetwonsCeof <br>
    <br>
- >> public<br>
+ > public<br>
  >>>  pointsArray - the x and y cordinates <br>
    
  methods <br>
