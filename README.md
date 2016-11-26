@@ -2,13 +2,13 @@
 numerice methods written in c, c++, and matlab
 
 Interpolaation <br>
- variables <br>
-  private: <br>
-   NumberOfPoints - is the number of points in the array can be updated by calling setNumberOfPoints and passing in the number of points also set when object is constructed <br>
-   newtownsCoef - ceofients to a polynomial going through all of the points set calling setNetwonsCeof <br>
+ </t>variables <br>
+  </t></t>private: <br>
+   </t>NumberOfPoints - is the number of points in the array can be updated by calling setNumberOfPoints and passing in the number of points also set when object is constructed <br>
+   <t>newtownsCoef - ceofients to a polynomial going through all of the points set calling setNetwonsCeof <br>
    <br>
-  public<br>
-   pointsArray - the x and y cordinates <br>
+  <t>public<br>
+   <t>pointsArray - the x and y cordinates <br>
    
  methods <br>
   public: <br>
