@@ -28,3 +28,5 @@ IntegrationAndDifferentiation <br>
   compisiteMidPointRule - integrates a set of points using compsitemidPointRule <br>
   simpComposite - integrates a set of points using simpsons compsite rule <br>
   trapRule - integrates a set of points using the trapRule <br>
+  
+  Tested using the comented out code in main labeld interoplations and integration and differentiation
